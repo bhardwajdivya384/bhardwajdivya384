@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/bhardwaj_divz" target="blank"><img src="https://img.shields.io/twitter/follow/bhardwaj_divz?logo=twitter&style=for-the-badge" alt="bhardwaj_divz" /></a> </p>
 
-- 🔭 I’m currently working with **React**
+<p align="center">- 🔭 I’m currently working with **React**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
